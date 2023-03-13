@@ -1,7 +1,7 @@
 ### MOVIE-SEARCH
 Application for search movies.
 
-<img src=https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms.png" width="700"/>
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms.png" width="700"/>
 
 <img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms2.png" width="700"/>
 
