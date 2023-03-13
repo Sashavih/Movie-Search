@@ -5,7 +5,7 @@ Application for search movies.
 
 <img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms2.png" width="700"/>
 
-<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms3.png" width="700"/>
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms5.png" width="700"/>
                                                                                               
 <img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ms6.png" width="700"/> 
 
